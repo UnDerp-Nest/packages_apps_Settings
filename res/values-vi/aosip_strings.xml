@@ -237,4 +237,19 @@
     <!-- OmniJaws weather -->
     <string name="weather_title">Thời tiết</string>
 
+    <!-- Adaptive Playback -->
+    <string name="adaptive_playback_screen_title">Phát lại thích ứng</string>
+    <string name="adaptive_playback_timeout_title">Sử dụng thời gian chờ của</string>
+    <string name="adaptive_playback_timeout_none_summary">Tắt</string>
+    <string name="adaptive_playback_timeout_30_secs">30 giây</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">Bật (30 giây)</string>
+    <string name="adaptive_playback_timeout_1_min">1 phút</string>
+    <string name="adaptive_playback_timeout_1_min_summary">Bật (1 phút)</string>
+    <string name="adaptive_playback_timeout_2_min">2 phút</string>
+    <string name="adaptive_playback_timeout_2_min_summary">Bật (2 phút)</string>
+    <string name="adaptive_playback_timeout_5_min">5 phút</string>
+    <string name="adaptive_playback_timeout_5_min_summary">Bật (5 phút)</string>
+    <string name="adaptive_playback_timeout_10_min">10 phút</string>
+    <string name="adaptive_playback_timeout_10_min_summary">Bật (10 phút)</string>
+
 </resources>
