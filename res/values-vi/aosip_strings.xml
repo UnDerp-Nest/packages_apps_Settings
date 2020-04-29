@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2015-2018 AOSiP
+
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
+
           http://www.apache.org/licenses/LICENSE-2.0
+
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -12,9 +15,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
     <!-- AOSiP Updater -->
     <string name="update_settings_title">Cập nhật UnDerp KangGit</string>
     <string name="update_settings_summary">Kiểm tra bản cập nhật mới nhất của rom</string>
+	<string name="update_package" translatable="false">eu.chainfire.opendelta</string>
+    <string name="update_activity" translatable="false">eu.chainfire.opendelta.MainActivity</string>
 
     <!-- Battery stats reset -->
     <string name="battery_stats_reset">Đặt lại số liệu thống kê</string>
@@ -129,7 +135,7 @@
 
     <string name="pulse_on_new_tracks_title">Màn Hình Xung Quanh bài hát</string>
     <string name="pulse_on_new_tracks_summary">Hiển thị Màn Hình Xung Quanh khi một bản nhạc mới được phát. Nhấn đúp vào thông tin bài hát để chuyển sang bài hát tiếp theo.</string>
-    <string name="ambient_ticker_footer">Hiển thị thông tin bản nhạc đang phát trên màn hình khóa và màn hình Màn Hình Xung Quanh. Nó cũng được kích hoạt nếu Màn Hình Xung Quanh bị tắt khi bắt đầu một bản nhạc mới, buộc màn hình Màn Hình Xung Quanh với thông tin bản nhạc ở giữa màn hình. Bạn cũng có thể chạm hai lần vào thông tin bản nhạc để chuyển sang bản nhạc tiếp theo. Nếu bạn sở hữu Pixel thế hệ thứ 2 trở lên và bật \"Đang phát\" và thông báo của nó trong cài đặt Âm thanh hệ thống thì Màn Hình Xung Quanh âm nhạc cũng sẽ hoạt động trong đó.</ string>
+    <string name="ambient_ticker_footer">Hiển thị thông tin bản nhạc đang phát trên màn hình khóa và màn hình Màn Hình Xung Quanh. \n\n\ Nó cũng được kích hoạt nếu Màn Hình Xung Quanh bị tắt khi bắt đầu một bản nhạc mới, buộc màn hình Màn Hình Xung Quanh với thông tin bản nhạc ở giữa màn hình.\n\nBạn cũng có thể chạm hai lần vào thông tin bản nhạc để chuyển sang bản nhạc tiếp theo. \n\n nếu bạn sở hữu Pixel (thế hệ thứ 2 trở lên) và bật \"Đang phát\" và thông báo của nó trong cài đặt Âm thanh hệ thống, thì Màn Hình Xung Quanh âm nhạc cũng sẽ hoạt động trong đó.</string>
     
 	<string name="back_height_low_label">Đầy đủ</string>
 	<string name="back_height_high_label">Dưới cùng</string>
