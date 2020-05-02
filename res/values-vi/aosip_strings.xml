@@ -41,6 +41,8 @@
     <string name="adb_over_network_summary">Cho phép gỡ lỗi TCP/IP qua mạng (mạng Wi-Fi, USB). Cài đặt này được đặt lại khi khởi động lại</string>
     <string name="adb_over_network_warning">Cảnh báo: Khi ADB qua mạng được bật, điện thoại của bạn sẽ mở để xâm nhập vào tất cả các mạng được kết nối, bao gồm mạng dữ liệu GSM! Chỉ sử dụng tính năng này khi bạn được kết nối trên các mạng đáng tin cậy. Bạn có thực sự muốn kích hoạt chức năng này không?</string>
     <string name="adb_over_network_warning_title">Cho phép ADB qua mạng?</string>
+    <string name="usb_enable_diagnostics">Bật chẩn đoán USB</string>
+    <string name="usb_enable_diagnostics_summary">Đặt thiết bị vào chế độ chẩn đoán USB</string>
 
     <!-- Density category -->
     <string name="density_category">Tùy chọn mật độ</string>
