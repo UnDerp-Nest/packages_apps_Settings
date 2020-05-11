@@ -262,4 +262,12 @@
     <string name="pattern_custom">Kiểu tùy chỉnh</string>
     <string name="custom_vibration_pattern_title">Mẫu rung tùy chỉnh</string>
 
+	<!-- Battery health -->
+    <string name="battery_health_title">Sức khỏe của pin</string>
+    <string name="battery_health_summary">Theo dõi tình trạng pin của thiết bị</string>
+    <string name="current_battery_capacity">Dung lượng pin hiện tại</string>
+    <string name="current_battery_capacity_summary">Dung lượng pin hiện tại được đo bằng kernel</string>
+    <string name="designed_battery_capacity">Dung lượng pin được thiết kế</string>
+    <string name="designed_battery_capacity_summary">Dung lượng pin được thiết kế bởi nhà sản xuất</string>
+
 </resources>
