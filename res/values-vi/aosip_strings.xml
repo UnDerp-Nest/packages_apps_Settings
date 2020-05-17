@@ -19,8 +19,6 @@
     <!-- AOSiP Updater -->
     <string name="update_settings_title">Cập nhật UnDerp KangGit</string>
     <string name="update_settings_summary">Kiểm tra bản cập nhật mới nhất của rom</string>
-	<string name="update_package" translatable="false">eu.chainfire.opendelta</string>
-    <string name="update_activity" translatable="false">eu.chainfire.opendelta.MainActivity</string>
 
     <!-- Battery stats reset -->
     <string name="battery_stats_reset">Đặt lại số liệu thống kê</string>

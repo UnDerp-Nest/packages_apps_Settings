@@ -18,8 +18,6 @@
     <!-- AOSiP Updater -->
     <string name="update_settings_title">डर्पफेस्ट अपडेटर </string>
     <string name="update_settings_summary">ROM के नवीनतम संस्करण की जाँच करें</string>
-    <string name="update_package" translatable="false">eu.chainfire.opendelta</string>
-    <string name="update_activity" translatable="false">eu.chainfire.opendelta.MainActivity</string>
 
     <!-- Battery stats reset -->
     <string name="battery_stats_reset">आँकड़े रीसेट करें</string>
