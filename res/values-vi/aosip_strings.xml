@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- AOSiP Updater -->
-    <string name="update_settings_title">Cập nhật UnDerp KangGit</string>
+    <string name="update_settings_title">Cập nhật UnDerp</string>
     <string name="update_settings_summary">Kiểm tra bản cập nhật mới nhất của rom</string>
 
     <!-- Battery stats reset -->
@@ -25,7 +25,7 @@
     <string name="battery_stats_message">Số liệu thống kê lịch sử pin sẽ được thiết lập lại</string>
 
     <!-- AOSiP Version -->
-    <string name="aosip_version">Phiên bản UnDerp KangGit</string>
+    <string name="aosip_version">Phiên bản UnDerp</string>
 
     <!-- UnDerp Build types -->
     <string name="build_type">Kiểu bản dựng</string>
@@ -70,8 +70,8 @@
     <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Xác định vị trí cảm biến vân tay ở bên phải của máy tính bảng.</string>
 
     <!-- DerpQuest Settings strings -->
-    <string name="derp_settings_title">UnDerp KangGit</string>
-    <string name="derp_settings_summary">Kronic của chúng tôi là một KangGer</string>
+    <string name="derp_settings_title">UnDerp KangKong</string>
+    <string name="derp_settings_summary">Kronic của chúng tôi là một KangKong</string>
     <string name="derp_extras_qs_title">Cài đặt nhanh</string>
 
     <!-- Quick unlock -->
