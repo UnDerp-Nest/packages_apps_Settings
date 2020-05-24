@@ -231,4 +231,7 @@
     <string name="refresh_rate_summary_90">Tốc độ 90Hz / Làm mới bị khóa ở 90Hz cho tất cả nội dung. Sử dụng pin tăng</string>
     <string name="auto_refresh_rate">Tự động</string>
 
+    <!-- Lock screen pattern size -->
+    <string name="lock_settings_picker_pattern_size_message">Chọn kích thước mẫu</string>
+
 </resources>
