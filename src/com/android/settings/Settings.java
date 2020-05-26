@@ -185,5 +185,6 @@ public class Settings extends SettingsActivity {
     // DerpFest Additions.
     public static class LockscreenDashboardActivity extends SettingsActivity {}
     public static class DevRunningServicesActivity extends SettingsActivity { /* empty */ }
+    public static class OmniJawsSettingsActivity extends SettingsActivity { /* empty */ }
 
 }

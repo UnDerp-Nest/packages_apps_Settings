@@ -234,4 +234,7 @@
     <!-- Lock screen pattern size -->
     <string name="lock_settings_picker_pattern_size_message">Chọn kích thước mẫu</string>
 
+    <!-- OmniJaws weather -->
+    <string name="weather_title">Thời tiết</string>
+
 </resources>

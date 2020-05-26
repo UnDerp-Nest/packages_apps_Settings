@@ -151,6 +151,7 @@ import com.android.settings.wifi.tether.WifiTetherSettings;
 
 import com.derpquest.settings.DerpQuestSettings;
 import com.derpquest.settings.fragments.QuickSettings;
+import com.derpquest.settings.external.OmniJawsSettings;
 
 public class SettingsGateway {
 
@@ -292,6 +293,7 @@ public class SettingsGateway {
             // AEX additions
             RunningServices.class.getName(),
             DarkModeSettingsFragment.class.getName(),
+            OmniJawsSettings.class.getName(),
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
@@ -333,6 +335,7 @@ public class SettingsGateway {
             Settings.DerpQuestSettingsActivity.class.getName(),
             Settings.QuickSettingsActivity.class.getName(),
             // AEX additions
-            Settings.DevRunningServicesActivity.class.getName()
+            Settings.DevRunningServicesActivity.class.getName(),
+            Settings.OmniJawsSettingsActivity.class.getName(),
     };
 }
