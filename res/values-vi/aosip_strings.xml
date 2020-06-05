@@ -252,4 +252,12 @@
     <string name="adaptive_playback_timeout_10_min">10 phút</string>
     <string name="adaptive_playback_timeout_10_min_summary">Bật (10 phút)</string>
 
+    <!-- Vibration patterns -->
+    <string name="vibration_pattern_title">Mô hình rung chuông</string>
+    <string name="pattern_dzzz_dzzz">Kiểu dzzz-dzzz</string>
+    <string name="pattern_dzzz_da">Kiểu dzzz-da</string>
+    <string name="pattern_mm_mm_mm">Kiểu mm-mm-mm</string>
+    <string name="pattern_da_da_dzzz">Kiểu da-da-dzzz</string>
+    <string name="pattern_da_dzzz_da">Kiểu da-dzzz-da</string>
+
 </resources>
