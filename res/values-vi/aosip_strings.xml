@@ -259,5 +259,7 @@
     <string name="pattern_mm_mm_mm">Kiểu mm-mm-mm</string>
     <string name="pattern_da_da_dzzz">Kiểu da-da-dzzz</string>
     <string name="pattern_da_dzzz_da">Kiểu da-dzzz-da</string>
+    <string name="pattern_custom">Kiểu tùy chỉnh</string>
+    <string name="custom_vibration_pattern_title">Mẫu rung tùy chỉnh</string>
 
 </resources>
