@@ -20,6 +20,12 @@
     android:key="system_dashboard_screen"
     android:title="@string/header_category_system">
 
+    <!-- Derp Logo Header -->
+    <Preference 
+        android:key="derp_logo_layout"
+        android:order="-500"
+        android:layout="@layout/system_animation" />
+
     <!-- Preference
         android:key="gesture_settings"
         android:title="@string/gesture_preference_title"
